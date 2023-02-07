@@ -28,6 +28,10 @@ export default function App() {
 
   return (
     <div>
+      <Typography className="typography-class" variant="p" component="p">
+        Zoot Salad Cost Calculator
+      </Typography>
+
       <FormControl sx={{ m: 1, width: '25ch' }} variant="outlined">
         <OutlinedInput
           className="zoot-blue-outline"
