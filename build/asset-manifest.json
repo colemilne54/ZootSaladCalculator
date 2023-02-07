@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ZootSaladCalculator/static/css/main.a6ce706d.css",
-    "main.js": "/ZootSaladCalculator/static/js/main.e28f9e2a.js",
+    "main.css": "/ZootSaladCalculator/static/css/main.0991dbf5.css",
+    "main.js": "/ZootSaladCalculator/static/js/main.3edfea42.js",
     "index.html": "/ZootSaladCalculator/index.html",
-    "main.a6ce706d.css.map": "/ZootSaladCalculator/static/css/main.a6ce706d.css.map",
-    "main.e28f9e2a.js.map": "/ZootSaladCalculator/static/js/main.e28f9e2a.js.map"
+    "main.0991dbf5.css.map": "/ZootSaladCalculator/static/css/main.0991dbf5.css.map",
+    "main.3edfea42.js.map": "/ZootSaladCalculator/static/js/main.3edfea42.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6ce706d.css",
-    "static/js/main.e28f9e2a.js"
+    "static/css/main.0991dbf5.css",
+    "static/js/main.3edfea42.js"
   ]
 }
