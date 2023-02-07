@@ -28,7 +28,7 @@ export default function App() {
 
   return (
     <div>
-      <Typography className="typography-class" variant="p" component="p">
+      <Typography className="typography-class-header" variant="p" component="h1">
         Zoot Salad Cost Calculator
       </Typography>
 

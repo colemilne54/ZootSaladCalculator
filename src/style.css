@@ -12,7 +12,7 @@
 
 .zoot-blue {
   background-color: #425aa8;
-  margin-top: 0.75rem;
+  margin-top: 0.75rem !important;
 }
 
 .zoot-blue:hover {
@@ -22,6 +22,17 @@
 .typography-class {
   display: block;
   font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  margin-top: 0.75rem !important;
+}
+
+.typography-class-header {
+  display: block;
+  font-size: 2em;
   margin-block-start: 0.83em;
   margin-block-end: 0.83em;
   margin-inline-start: 0px;
